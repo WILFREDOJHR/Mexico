@@ -1,0 +1,483 @@
+#EXTM3U
+#EXTINF:-1 group-title="PS3Ultimate.com" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CONTENIDO DE PS3Ultimate.COM
+https://archive.org/download/6609d-081741701c-2222393d-6fa-6d-565a-720p/IntroPS3Ultimate.mp4
+#EXTINF:-1 group-title="PS3Ultimate.com" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Donaciones Paypal: acerloma@gmail.com
+https://archive.org/download/6609d-081741701c-2222393d-6fa-6d-565a-720p/IntroPS3Ultimate.mp4
+#EXTINF:-1 group-title="PS3Ultimate.com" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Contenido para todas tus consolas
+https://archive.org/download/6609d-081741701c-2222393d-6fa-6d-565a-720p/IntroPS3Ultimate.mp4
+#EXTINF:-1 group-title="PS3Ultimate.com" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",y Dispositivos Gratis
+https://archive.org/download/6609d-081741701c-2222393d-6fa-6d-565a-720p/IntroPS3Ultimate.mp4
+#EXTINF:-1 group-title="PS3Ultimate.com" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",La Publicidad y Donaciones
+https://archive.org/download/6609d-081741701c-2222393d-6fa-6d-565a-720p/IntroPS3Ultimate.mp4
+#EXTINF:-1 group-title="PS3Ultimate.com" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Mantienen este y otros contenidos
+https://archive.org/download/6609d-081741701c-2222393d-6fa-6d-565a-720p/IntroPS3Ultimate.mp4
+
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",France 24
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MegaTV (PR)
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Vibe TV
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Canal 6 Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Canal ONCE
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Quiero TV
+https://quierotvlive.tk/httplive/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Multivision
+https://panel.dattalive.com/8250/8250/.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NexTV
+http://198.1.123.99:1935/live/myStream/.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Euro Latina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Latinos UP
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TOP Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ACS Network
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Adult Swim TV
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Cachipum TV
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Circle
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Edge Sport
+https://edgesports-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",comedy redbox
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",shoutfactory-xumo
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",The film detective
+https://filmdetective-plex.amagi.tv/index.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BUZZR
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DARK MATTER
+https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MOVIE SPHERE
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Free RunTime
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Black news channel
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TD ameritrade
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Yahoo
+https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Poker Night
+https://pokernight-rushstreet-glewedtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",OutSide TVPlus
+https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Venn tv ono
+https://venntv-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Venn tv DistroTV
+https://venntv-distrotv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",IGN
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Bamus SPA
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Bamus ENG
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Internacionales" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CineLife
+https://magselect-stirr.amagi.tv/playlist.m3u8
+
+*** NACIONALES ***
+
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ONCE NINOS (CLASES)
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=3315&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZTECA 7.3 (CLASES)
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=3316&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZTECA UNO HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=7&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZ CLIC HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=11&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",LAS ESTRELLAS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=17&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CANAL 5
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=20&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZTECA 7
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=21&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NU9VE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=24&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ONCE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=25&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZTECA UNO
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=27&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TELEFORMULA SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=32&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MEXIQUENSE TV
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=44&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZ CORAZON 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=70&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZ MUNDO
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=84&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZTECA 7 HD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=317&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZTECA 7 HD (2)
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=322&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",IMAGEN TV  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2298&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MULTIMEDIOS MTY
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2305&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",APREDNE TV
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=401&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MULTIMEDIOS CDMX
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1253&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NU9VE HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1783&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",LAS ESTRELLAS HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1784&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CANAL 5 HD (2)
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1785&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ONCE HD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1942&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MVS TV
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2149&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TVC
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2156&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CANAL 4 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2274&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CANAL 8
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2307&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TELEVISA PUEBLA
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2312&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",A+ 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2316&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TVMAS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2324&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CANAL DEL CONGRESO
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2331&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MULTIMEDIOS CDMX
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2352&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",IMAGEN TV HD  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2606&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ACADEMIA
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2703&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MULTIMEDIOS HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2882&PS3Ultimate.m3u8 
+
+
+
+
+
+
+*** INFANTILES ***
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TOONCAST
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=108&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY KIDS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=109&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NICK
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=110&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISNEY XD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=111&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CARTOON NETWORK
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=112&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISNEY CHANNEL
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=113&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BOOMERANG
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=115&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BABY TV 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=116&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NICK JR
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=117&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISNEY JR
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=118&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NICKTOONS SD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1708&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BABY FIRST
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1984&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NICK 2  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2147&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NAT GEO KIDS  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2373&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BIT ME  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2591&PS3Ultimate.m3u8
+
+*** CINE ***
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",A3CINE 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=3112&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TBS SD  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=81&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DE PELICULA + 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=121&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",GOLDEN +
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=122&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",GOLDEN
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=123&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",GOLDEN EDGE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=124&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TNT 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=126&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TCM
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=128&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",SPACE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=129&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AMC 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=131&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",STUDIO UNIVERSAL
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=132&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",I SAT  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=135&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",EUROPA CHANNEL 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=136&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FILMS & ARTS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=137&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FXM
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=138&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FXM SD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=332&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX SERIES
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=139&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MORBIDO
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=140&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX MOVIES 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=146&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CINECANAL
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=149&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CINEMAX 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=158&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AMC  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=328&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DE PELICULA SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=335&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX ACTION
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=336&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",PARAMOUNT CHANNEL 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1726&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX CINEMA SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1729&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX CLASSICS SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1732&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZ CINEMA 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1787&PS3Ultimate.m3u8
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TELEMUNDO INTERNACIONAL HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=85&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=46&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",SONY  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=48&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",WARNER  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=52&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",E!
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=55&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",UNIVERSAL
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=57&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",SYFY
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=59&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FX
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=60&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",A&E
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=62&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AXN
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=64&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",UNICABLE SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=66&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",SUNDANCE TV
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=69&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TNT SERIES
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=71&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",GLITZ
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=76&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",GOURMET 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=74&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX LIFE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=77&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISTRITO COMEDIA SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=78&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TRUTV
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=79&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TL NOVELAS SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=83&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",LIFETIME 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=94&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ANTENA 3
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=199&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX HD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=201&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",WARNER HD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=205&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",UNIVERSAL HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=207&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FX HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=209&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TRUTV HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=215&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",HOLA TV HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=219&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",COMEDY CENTRAL
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=340&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",COMEDY CENTRAL SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=341&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",UNICABLE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1499&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MAS CHIC
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1842&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",A3SERIES
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2113&PS3Ultimate.m3u8
+
+*** DEPORTES ***
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ESPN + 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=167&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ESPN 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=168&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ESPN 2
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=169&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX SPORTS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=170&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX SPORTS 2
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=172&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TUDN
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=174&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOX SPORTS 3 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=178&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",GOLF
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=179&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AYM SPORTS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=180&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ESPN 3 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=345&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TUDN HD (2)
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1049&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ADRENALINA SPORTS HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1799&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",LAS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2089&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",HAVOC
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2148&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TVC DEPORTES
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2157&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CLARO SPORTS HD  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2564&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FUEL TV HD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2587&PS3Ultimate.m3u8
+
+*** CULTURALES ***
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY ID
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=68&PS3Ultimate.m3u8 
+ #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",GARAGE TV 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=75&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY CHANNEL
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=86&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ANIMAL PLANET
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=88&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",HISTORY
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=89&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NAT GEO  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=91&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NAT GEO WILD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=92&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY THEATER
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=95&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",H&H
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=96&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TLC
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=97&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY SCIENCE  
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=98&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY CIVILIZATION
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=99&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY WORLD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=101&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TVE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=198&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",SHOPPING
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1943&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOOD NETWORK 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2145&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",STAR TVE 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2375&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DISCOVERY TURBO
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2379&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CURIOSITY STREAM
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2594&PS3Ultimate.m3u8 
+
+*** MUSICA ***
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MTV LIVE
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=211&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MTV
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=212&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MTV HITS SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=213&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",VH1 CLASSIC SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=214&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",VH1 SD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=217&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TELEHIT URBANO SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=218&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",TELEHIT +
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=220&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BANDAMAX SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=221&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AZ CLIC
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=223&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",VH1 HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=334&PS3Ultimate.m3u8 
+
+
+*** NOTICIAS ***
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOROTV HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=4&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOROTV SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=19&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ADN40
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=40&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",ADN 40 HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=184&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CNN
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=185&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CNN SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=186&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",CNN Ñ SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=187&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",WOBI 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=102&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FOXN EWS
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=188&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BLOOMBERG 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=190&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",BBC SD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=191&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",AL JAAZERA 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=192&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",NTN 24
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=194&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",JUSTICIA TV 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=196&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",HLN
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=197&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",DW 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=203&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",RT
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=999&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MILENIO HD
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1250&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",MILENIO SD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1252&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",EXCELSIOR TV
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1449&PS3Ultimate.m3u8 
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",EL FINANCIERO HD 
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=1649&PS3Ultimate.m3u8 
+ #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",RT ESPAÑOL
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2091&PS3Ultimate.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.ibb.co/RT9tBqW/TELEVISION.png",FRANCE 24
+http://ps3ultimate.com/ElUnicoLosDemasCopian/MX?id=2402&PS3Ultimate.m3u8
